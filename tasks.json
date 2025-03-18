@@ -1,0 +1,10 @@
+[
+    {
+        "description": "Проверить задание",
+        "completed": true
+    },
+    {
+        "description": "Найти сохраненный файл",
+        "completed": false
+    }
+]
