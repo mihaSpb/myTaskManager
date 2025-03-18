@@ -1,10 +1,14 @@
 [
     {
-        "description": "Проверить задание",
+        "description": "Check news",
         "completed": true
     },
     {
-        "description": "Найти сохраненный файл",
+        "description": "Зафиксировать позиции",
         "completed": false
+    },
+    {
+        "description": "Сделать заказ",
+        "completed": true
     }
 ]
