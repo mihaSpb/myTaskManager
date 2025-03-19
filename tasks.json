@@ -10,5 +10,9 @@
     {
         "description": "Сделать заказ",
         "completed": true
+    },
+    {
+        "description": "Запустить обработку файлов",
+        "completed": false
     }
 ]
